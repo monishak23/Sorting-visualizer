@@ -1,0 +1,106 @@
+body{
+     background-color : greenyellow ;
+}
+
+
+h6 {
+    color : crimson;
+    font-family : verdana;
+    font-size : 300%;
+    text-align:center;
+       
+}
+
+h4 {
+    color : mediumvioletred;
+    font-family : verdana;
+    font-size : 150%;
+    text-align : center ;  
+     
+}
+
+
+h3 {
+    color : white;
+    font-family : verdana;
+    font-size : 150%;
+    text-align : center ;  
+     
+}
+
+.grid-container1 {
+   display : grid ;
+   grid-template-columns : 670px 670px;
+   grid-template-rows :250px 250px ;
+   grid-gap : 50px;
+   background-color : slategrey ;
+   padding : 50px;
+   
+   
+}
+
+
+
+
+.bubble {
+     background-color :lightsteelblue;
+     text-align : center;
+     color : brown;
+     font-size :100%;
+     font-weight:700;
+}
+
+.insertion {
+     background-color :lightsteelblue;
+     text-align : center;
+     color : brown;
+     font-size :100%;
+     font-weight:700;
+}
+
+.selection {
+     background-color :lightsteelblue;
+     text-align : center;
+     color : brown;
+     font-size :100%;
+     font-weight:700;
+}
+
+.quote {
+     background-color :lightsteelblue;
+     text-align : center;
+     color : brown;
+     font-size :100%;
+     font-weight:700;
+}
+
+
+
+
+.bubble>img {
+     object-fit : cover;
+     width :90% ;
+     height : 70%;
+}
+
+.insertion >img {
+     object-fit : cover;
+     width :90% ;
+     height : 70%;
+}
+
+
+
+
+.button{
+     background-color :steelblue;
+     color : white;
+     border: 2px solid #f44336;
+     font-family : verdana;
+     font-size : 150%;
+     border-radius : 12px;
+    
+     
+}
+
+  

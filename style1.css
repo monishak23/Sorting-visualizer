@@ -1,0 +1,67 @@
+body{
+     background-color : silver ;
+}
+
+h6 {
+    color : crimson;
+    font-family : verdana;
+    font-size : 300%;
+    text-align : center ; 
+       
+}
+
+h3 {
+    color : white;
+    font-family : verdana;
+    font-size : 150%;
+    text-align : center ;
+     
+}
+
+.button{
+     background-color :teal;
+     color : white;
+     border: 2px solid #f44336;
+     font-family : verdana;
+     font-size : 75%;
+     border-radius : 12px;   
+}
+
+.button1{
+     background-color :teal;
+     color : white;
+     border: 2px solid #f44336;
+     font-family : verdana;
+     font-size : 75%;
+     border-radius : 12px; 
+     
+}
+
+
+
+#array {
+    
+    height: 400px;
+    width: 598px;
+    margin: auto;
+    position: relative;
+    margin-top: 34px;
+    left : 60px
+}
+  
+.block {
+    width: 28px;
+    background-color: #00ff7f;
+    position: absolute;
+    bottom: 0px;
+    transition: 0.2s all ease;
+}
+  
+.block_id {
+    position: absolute;
+    color: black;
+    margin-top: -20px;
+    width: 100%;
+    text-align: center;
+}
+

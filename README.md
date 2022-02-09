@@ -2,7 +2,7 @@
 
 Abstract
  
-         This project is to visulaize the working of some sorting algorithms.It is developed using HTML,CSS,Java Script.
+         This project is to visualize the working of some sorting algorithms.It is developed using HTML,CSS,Java Script.
          It would be useful for beginners to learn algorithms by visualising their working.
          
 Working
